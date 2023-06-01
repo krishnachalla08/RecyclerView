@@ -12,6 +12,7 @@
         android:layout_width="200dp"
         android:layout_height="80dp"
         android:text="View Images"
+        android:textColor="@color/white"
         android:backgroundTint="#293241"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
